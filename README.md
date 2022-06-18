@@ -1,5 +1,5 @@
 # UI
-Make a Store UI with minimin two pages:
+Make a Store UI with minimum two pages:
   - Product Listing
   - Product Details
 
